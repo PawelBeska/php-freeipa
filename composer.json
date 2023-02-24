@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php": "^7.4",
+    "php": "^8.0",
     "ext-json": "*",
     "ocramius/package-versions": "*",
     "php-http/client-common": "^2.0",
